@@ -1,0 +1,39 @@
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Ensures the image is centered */
+    margin: 0 auto; /* Centers the image horizontally */
+  }
+  #head{
+    text-align:center;
+  }
+  figcaption{
+    text-align:center;
+    font-family:verdana;
+    font-size:10px;
+  }
+  #tribute-info ul {
+    text-align: center; /* Align the entire list to the center */
+  }
+  
+  #tribute-info ul li {
+    text-align: left; /* Align text within list items to the left */
+    list-style-position: inside; /* Place list item markers inside the content flow */
+  }
+  body{
+    background-image:url("https://cdn.pixabay.com/photo/2016/04/15/21/39/paper-1332019_1280.jpg");
+    }
+  
+  #imp{
+    border:2px solid black;
+    margin:0 auto;
+    max-width:65%;
+  }
+  
+  ul{
+    border:2px solid black;
+    padding:17px;
+    margin:5px;
+    max-width:60%;
+  }
+  
